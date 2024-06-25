@@ -1,0 +1,42 @@
+.imgW{
+    width: 40%;
+    margin: auto;
+}
+
+.bgGreen{
+background-color: rgb(194, 197, 145);
+font-family: "Voltaire", sans-serif;
+}
+
+.bgLightGreen{
+    background-color: rgb(205, 206, 180);
+    font-family: "Voltaire", sans-serif;
+    }
+
+.bgBeige{
+    background-color: rgb(232, 222, 210);
+    font-family: "Voltaire", sans-serif;
+}
+
+.fsText{
+    font-family: "Voltaire", sans-serif;  
+}
+
+.bgPink{
+    background-color: #E85E84;
+}
+
+.bgBlue{
+    background-color: #b6cfc9;
+    font-family: "Voltaire", sans-serif;
+}
+
+.bgBackground{
+    font-family: "Voltaire", sans-serif;
+    background-color: #ebe7dd;
+}
+
+.imgF{
+    width: 35%;
+    margin: auto;
+}
